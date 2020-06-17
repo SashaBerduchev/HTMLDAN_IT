@@ -1,0 +1,19 @@
+.link{
+
+}
+.heading{
+
+}
+.paragraph{
+
+}
+.img{
+
+}
+.btn{
+    width: 100px;
+    height: 30px;
+    color: red;
+    background-color: aqua;
+    cursor: pointer;
+}
